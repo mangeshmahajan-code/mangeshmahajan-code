@@ -35,8 +35,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 🔗 LinkedIn: www.linkedin.com/in/mangeshmahajan05
-
+- 🔗 LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mangeshmahajan05)
 ---
 
 ⭐ *Trying to improve every day by building and learning*
