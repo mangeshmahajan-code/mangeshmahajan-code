@@ -7,7 +7,6 @@
 ---
 
 ## 🚧 What I'm Working On
-- 🔹 CV Analyzer (Hackathon Project)
 - 🔹 Learning Flask & SQLAlchemy
 - 🔹 Exploring Google Cloud (hands-on labs)
 
