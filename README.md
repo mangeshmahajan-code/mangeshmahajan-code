@@ -1,14 +1,17 @@
 # Hi, I'm Mangesh 👋
 
 💻 IT Student from Maharashtra,india  
-🚀 Interested in Backend Development & Cloud  
+🚀 Exploring Backend Development, Data Science, and AI
 🛠 Currently learning by building real-world projects  
 
 ---
 
 ## 🚧 What I'm Working On
 - 🔹 Learning Flask & SQLAlchemy
-- 🔹 Exploring Google Cloud (hands-on labs)
+- 🔹 Building Backend Projects with Python
+- 🔹 Exploring Data Science & AI
+- 🔹 Improving Problem Solving Skills
+- 🔹 Learning Git & GitHub
 
 ---
 
@@ -17,7 +20,6 @@
 - ⚙️ Backend: Flask  
 - 🗄️ Database: SQLite, SQLAlchemy  
 - 🔧 Tools: Git, GitHub, VS Code  
-- ☁️ Cloud: Google Cloud (Basics)
 
 ---
 
@@ -26,11 +28,6 @@
 ### 🔹 Library Management System
 - CRUD application using Flask + SQLAlchemy  
 - Learned database operations and ORM  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mangeshmahajan-code&show_icons=true)
 
 ---
 
